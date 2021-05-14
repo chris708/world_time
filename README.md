@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter application.
+A world time app which lets you see the realtime time of different cities. 
 
 ## Getting Started
 
